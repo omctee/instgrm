@@ -33,6 +33,7 @@ gem 'rails-ujs', '~> 0.1.0'
 #gem 'paperclip', '~>4.2.0'
 gem 'paperclip', '~> 6.0.0'
 gem 'masonry-rails', '~>0.2.4'
+gem 'acts_as_votable', '~> 0.12.0'
 # #### ###################################
 
 gem 'bootsnap', '>= 1.1.0', require: false
