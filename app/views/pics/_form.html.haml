@@ -9,6 +9,9 @@
 			- pic.errors.full_messages.each do |msg|
 				%li = msg
 
+
+	.form-group
+		= f.input :avatar, input_html: { class: 'form_control' }
 	.form-group
 		= f.input :title, input_html: { class: 'form_control' }
 	.form-group
